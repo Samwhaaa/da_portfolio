@@ -68,6 +68,6 @@ Feel free to contact me with any questions or inquiries:
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 International License. 
+This project is licensed under the CC0 1.0 Universal License. 
 While not legally required, I would appreciate it if you could notify me when you use or adapt this work. 
 See the `LICENSE` file for more information.
