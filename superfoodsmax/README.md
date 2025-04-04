@@ -64,10 +64,10 @@ Feel free to contact me with any questions or inquiries:
 
 * **Email:** [samwhaaa@gmail.com]
 * **LinkedIn:** [http://www.linkedin.com/in/sam-white-176851243]
-* **Portfolio Website (Optional):** [Coming Soon]
+* **Portfolio Website:** [Coming Soon]
 
 ## License
 
-This project is licensed under the CC0 1.0 Universal License. 
+This project is licensed under the MIT License. 
 While not legally required, I would appreciate it if you could notify me when you use or adapt this work. 
 See the `LICENSE` file for more information.
