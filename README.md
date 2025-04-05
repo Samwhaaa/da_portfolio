@@ -29,19 +29,18 @@ The project is structured as follows:
 
 To explore this project, follow these steps:
 
+To explore this project, follow these steps:
+
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Samwhaaa/da_portfolio]
+    git clone https://github.com/Samwhaaa/superfoodsmax
     ```
-2.  **Navigate to the Project Folder:**
-    ```bash
-    cd [superfoodsmax]
-    ```
-3.  **Open Jupyter Notebooks:**
+2.  **Open Jupyter Notebooks:**
     * Open the `.ipynb` files using Jupyter Notebook or JupyterLab.
     * It is recommended to run the notebooks in the numerical order listed above, as they build upon each other.
-4.  **Install Dependencies:**
-    * Ensure you have the necessary Python libraries installed. You can typically find a `requirements.txt` file within each project folder. If it exists, use:
+      
+3.  **Install Dependencies:**
+    * Ensure you have the necessary Python libraries installed. You can typically find a `requirements.txt` file within the repository. If it exists, use:
     ```bash
     pip install -r requirements.txt
     ```
